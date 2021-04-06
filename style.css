@@ -1,0 +1,30 @@
+header {
+  padding: 30px 20px;
+  background-color: rgb(10, 83, 28);
+  color: #fff;
+  padding: 30px 20px;
+  text-align: center;
+}
+main {
+  background-color: rgb(114, 110, 107);
+  padding: 20xp;
+  height: 70vh;
+}
+
+form {
+  padding-top: 15px;
+  text-align: center;
+}
+
+footer {
+  background-color: rgb(210, 212, 226);
+  text-align: center;
+  padding: 20px;
+}
+
+#display {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  padding-left: 40%;
+}
